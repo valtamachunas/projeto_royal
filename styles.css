@@ -1,0 +1,29 @@
+body {
+    background-color: #ff823a;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.logo {
+    width: 10%;
+    height: 10%;
+}
+
+.container {
+    background-color: #fff7bd;
+    border-radius: 10px;
+
+}
+
+.principal {
+    text-align: center;
+
+}
+
+.img-principal {
+    width: 70%;
+    height: 400px;
+    border-radius: 10px;
+}
