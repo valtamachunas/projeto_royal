@@ -24,6 +24,34 @@ body {
 
 .img-principal {
     width: 70%;
-    height: 400px;
+    height: auto;
     border-radius: 10px;
+}
+
+.produto-item {
+    display: flex;
+}
+
+.alinha-img {
+    width: 20%;
+    height: auto;
+}
+
+.alinha-texto {
+    text-align: justify;
+    margin-top: 17%;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h2 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 5% 0 0 5%;
+    font-size: 160%;
+    border-bottom: 3px solid #ff0000;
+    display: inline-block;
 }
